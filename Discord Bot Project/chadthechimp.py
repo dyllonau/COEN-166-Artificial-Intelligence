@@ -10,8 +10,8 @@ import discord
 import os
 from dotenv import load_dotenv
 
-TOKEN = 'OTE0OTQ4NzgwMDU3NTc5NTIw.YaUedA.Jc7SsmGPGmmxB4LS1_jRYEwcKyE' //this token is now defunct and reset
-GUILD = 'Aed Dungeon'
+TOKEN = '' // left as nothing for confidentiality
+GUILD = '' // left as nothing as it is the name of a private server
 
 client = discord.Client()
  
