@@ -10,7 +10,7 @@ import discord
 import os
 from dotenv import load_dotenv
 
-TOKEN = 'OTE0OTQ4NzgwMDU3NTc5NTIw.YaUedA.Jc7SsmGPGmmxB4LS1_jRYEwcKyE' //this token has been reset
+TOKEN = 'OTE0OTQ4NzgwMDU3NTc5NTIw.YaUedA.Jc7SsmGPGmmxB4LS1_jRYEwcKyE' //this token is now defunct and reset
 GUILD = 'Aed Dungeon'
 
 client = discord.Client()
